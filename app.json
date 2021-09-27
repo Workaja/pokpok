@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PokPok",
+    "slug": "PokPok",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PokPok"
+}
